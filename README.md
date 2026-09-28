@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rumamarjana/rumamarjana/main/profile.jpg"
-    alt="Marjana Ruma"
-    width="180"
-  />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Marjana ruma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
