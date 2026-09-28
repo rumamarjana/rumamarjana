@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./profile.png" alt="Mariana Ruma" width="180">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Marjana ruma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
