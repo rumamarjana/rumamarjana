@@ -1,7 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Marjana ruma</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Hi, I'm Marjana Ruma 👋
+
+## 💻 Junior Frontend Developer | React & Next.js Developer
+
+### 👩‍💻 About Me
+
+I’m a passionate Frontend Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications.
+
+I’m currently focused on strengthening my skills in JavaScript, TypeScript, React, Next.js, and Tailwind CSS. I love learning new technologies, solving problems, and turning ideas into clean and functional interfaces.
+
+My goal is to grow as a professional developer and build impactful web experiences.
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
