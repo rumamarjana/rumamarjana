@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.png" alt="Mariana Ruma" width="180">
+  <img src="./ruma_under_1mb.jpg" alt="Mariana Ruma" width="180">
 </p>
 
 
