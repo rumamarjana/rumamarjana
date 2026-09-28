@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="./ruma_under_1mb.jpg" alt="Mariana Ruma" width="180">
+  <img
+    src="https://raw.githubusercontent.com/rumamarjana/rumamarjana/main/profile.jpg"
+    alt="Marjana Ruma"
+    width="180"
+  />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Marjana ruma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
